@@ -1,7 +1,7 @@
 ### Oii, pessoal! 👋
 
 <div>
-  <p>📚 Atualmente estou estudando programação (HTML, CSS, JS).</p>
+  <p>📚 Atualmente estou estudando programação (HTML, CSS, SASS, JS).</p>
   <p>🎂 Tenho 25 anos.</p>
   <p>👧🏻 Mamãe da Clarice.</p>
   <p>🎄 Amo datas comemorativas.</p>
